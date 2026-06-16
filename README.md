@@ -1,7 +1,5 @@
 # Build a Wordle Clone with JavaScript
 
-**Project Link:** [View Project](https://learn.nextwork.org/projects/c82674b0-0fc3-4ad8-a0aa-fab819883043)
-
 ---
 
 ![Image](https://learn.nextwork.org/heartfelt_red_happy_emblica/uploads/c82674b0-0fc3-4ad8-a0aa-fab819883043_elssq75n)
