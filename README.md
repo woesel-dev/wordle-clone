@@ -1,11 +1,6 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
-
 # Build a Wordle Clone with JavaScript
 
 **Project Link:** [View Project](https://learn.nextwork.org/projects/c82674b0-0fc3-4ad8-a0aa-fab819883043)
-
-**Author:** woesel Qoesel  
-**Email:** woeselqoesel@gmail.com
 
 ---
 
@@ -93,4 +88,4 @@ I did this project today to learn Javascript and some of its concepts. I also wa
 
 ---
 
-*Built with [NextWork](https://learn.nextwork.org) - [View this project](https://learn.nextwork.org/projects/c82674b0-0fc3-4ad8-a0aa-fab819883043)*
+
